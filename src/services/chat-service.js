@@ -5,7 +5,7 @@ import axios from "axios";
 export async function getPromptResponse({ query, onSuccess, onError }) {
   try {
     const response = await axios.get(
-      "http://127.0.0.1:8000/api/prompts" + "?" + query
+      "https://faqapi-wv8rvb8l.b4a.run/api" + "?" + query
     );
     onSuccess(response?.data?.response);
   } catch (error) {
