@@ -1,15 +1,48 @@
-# React Chatbot Kit Example
+*Ecommerce FAQ Chatbot UI*
 
-Hey there !! :wave: The project is created using Vite and ReactJS for a fast and optimized development experience.
+*Overview*
 
-## Features
+This repository contains the UI component of an intelligent chatbot designed to answer frequently asked questions (FAQs) for an ecommerce website. The chatbot aims to provide a seamless and intuitive user experience, helping customers quickly find the information they need.
 
-- **React Chatbot Kit Integration**: Seamlessly integrated the `react-chatbot-kit` library into a React application.
-- **Static Responses**: Predefined bot responses to showcase static interactions.
-- **Dynamic Responses**: Fetching bot responses from an external API for dynamic and real-time interactions.
-  
-## Running the Application
-- Start the development server using 'npm run dev'.
-- Open your browser and navigate to http://localhost:5173 to see the chatbot in action.
+*Features*
 
-Feel free to fork the repository and submit pull requests. I welcome contributions to enhance the functionality and improve the documentation. :handshake:
+- Responsive and user-friendly interface
+- Integration with backend API for FAQ retrieval
+- Dynamic search functionality
+- Categorized FAQ sections for easy navigation
+- Contextual answers based on user queries
+
+*Technologies Used*
+
+- Frontend: React, Vite, FastAPI, Langchain
+- Backend: [Insert backend technologies/APIs used]
+
+*Installation*
+
+1. Clone the repository: `git clone https://
+2. Install dependencies: `npm install` or `yarn install`
+3. Start the development server: `npm run dev` or `yarn dev`
+
+*Usage*
+
+1. Open the chatbot UI in your web browser: `http://localhost:5173`
+2. Ask a question or search for a topic in the search bar
+3. View the chatbot's response and navigate through categorized FAQ sections
+
+*Contributing*
+
+Contributions are welcome! If you'd like to improve the chatbot UI or add new features, please:
+
+1. Fork the repository: `git fork (link unavailable)
+2. Create a new branch: `git branch my-new-feature`
+3. Commit your changes: `git commit -m "Added new feature"`
+4. Push your changes: `git push origin my-new-feature`
+5. Open a pull request
+
+*License*
+
+This project is licensed under the MIT License. See (link unavailable) for details.
+
+*Acknowledgments*
+
+Special thanks to [insert names/organizations] for their contributions to this project.
