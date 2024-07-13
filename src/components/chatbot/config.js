@@ -1,6 +1,6 @@
 import { createChatBotMessage } from "react-chatbot-kit";
-const botName = "Virtural Assistant";
+const botName = "We are here to help 💁‍♂️";
 export const config = {
-  initialMessages: [createChatBotMessage(`Hey there! I'm ${botName}`)],
+  initialMessages: [createChatBotMessage(`🙋‍♂️Hi three ${botName}`)],
   botName: botName,
 };
